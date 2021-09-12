@@ -19,3 +19,7 @@
 
 ### Graphite/Graphite/Diamond/Coal
 * 119   -9
+
+### Cassiterite/Garnet/asbestos/Diatomite
+
+* 119 67
