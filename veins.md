@@ -27,4 +27,6 @@
 
 ### Rock Salt/Salt/Lepidolite/Spodumene
 * 71    -9
+* 71   -57
 
+### Magnetite/Magnetite/Vanadium/Gold
