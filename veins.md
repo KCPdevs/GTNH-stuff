@@ -2,12 +2,16 @@
 
 ### Name
 * Locations
-119 -249 Mineral Sand
 
-119 -201 Lapis
+### Basaltic/Granitic/Fullers/Gypsum
+* 119 -249
+* 119 -105
 
-119 -153 Soapstone
+### Lazurite/Sodalite/Lapis/Calcite
+* 119 -201
 
-119 -105 Mineral Sand
+### Soapstone/Talc/Glauconite/Pentlandite
+* 119 -153
 
-119 -57 Chalcopyrite
+### Chalcopyrite/Iron/Pyrite/Copper
+* 119 -57
