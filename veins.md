@@ -13,6 +13,7 @@
 
 ### Soapstone/Talc/Glauconite/Pentlandite
 * 119 -153
+* 23    -9
 
 ### Chalcopyrite/Iron/Pyrite/Copper
 * 119  -57
