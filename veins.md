@@ -16,6 +16,7 @@
 
 ### Chalcopyrite/Iron/Pyrite/Copper
 * 119  -57
+* 120 27
 
 ### Graphite/Graphite/Diamond/Coal
 * 119   -9
