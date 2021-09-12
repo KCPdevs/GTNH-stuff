@@ -22,7 +22,7 @@
 * 119   -9
 
 ### Cassiterite/Garnet/asbestos/Diatomite
-* 119   67
+* 119   71
 
 ### Rock Salt/Salt/Lepidolite/Spodumene
 * 71    -9
