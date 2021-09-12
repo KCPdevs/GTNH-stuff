@@ -16,11 +16,14 @@
 
 ### Chalcopyrite/Iron/Pyrite/Copper
 * 119  -57
-* 120 27
+* 120   27
 
 ### Graphite/Graphite/Diamond/Coal
 * 119   -9
 
 ### Cassiterite/Garnet/asbestos/Diatomite
+* 119   67
 
-* 119 67
+### Rock Salt/Salt/Lepidolite/Spodumene
+* 71    -9
+
