@@ -13,20 +13,21 @@
 
 ### Soapstone/Talc/Glauconite/Pentlandite
 * 119 -153
-* 23    -9
+* 23   -9
 
 ### Chalcopyrite/Iron/Pyrite/Copper
-* 119  -57
-* 120   27
+* 119 -57
+* 120  27
 
 ### Graphite/Graphite/Diamond/Coal
-* 119   -9
+* 119  -9
 
 ### Cassiterite/Garnet/asbestos/Diatomite
-* 119   71
+* 119  71
 
 ### Rock Salt/Salt/Lepidolite/Spodumene
-* 71    -9
-* 71   -57
+* 71   -9
+* 71  -57
 
 ### Magnetite/Magnetite/Vanadium/Gold
+* 71 -105
