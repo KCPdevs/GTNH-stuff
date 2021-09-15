@@ -32,6 +32,8 @@
 
 ### Magnetite/Magnetite/Vanadium/Gold
 * 71 -105
+* 71 23
 * -9 -297  
+* 
  
  
