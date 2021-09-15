@@ -40,5 +40,9 @@
 
 ### Brown Limonite/Yellow Limonite/Banded Iron/Malachite
 * 167 23
- 
+
+### Redstone/Redstone/Ruby/Cinnabar
+* 263 23
+* -9 -345
+* 
  
