@@ -11,6 +11,7 @@
 
 ### Lazurite/Sodalite/Lapis/Calcite
 * 119 -201
+* 119 27
 
 ### Soapstone/Talc/Glauconite/Pentlandite
 * 119 -153
@@ -18,7 +19,6 @@
 
 ### Chalcopyrite/Iron/Pyrite/Copper
 * 119 -57
-* 120  27
 
 ### Graphite/Graphite/Diamond/Coal
 * 119  -9
