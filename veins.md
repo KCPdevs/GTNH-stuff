@@ -38,7 +38,7 @@
 * 71 -105
 * 71 23
 * -9 -297  
-
+* -340 -492
 ### Brown Limonite/Yellow Limonite/Banded Iron/Malachite
 * 167 23
 
