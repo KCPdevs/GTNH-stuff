@@ -1,7 +1,7 @@
 # Notable locations that will become useful in the future
 
-## Name
-### Location
+### Name
+* Locations
 
-## Eldrich Obelisk
-### -315 -463 66
+### Eldrich Obelisk
+* -315 -463 66
